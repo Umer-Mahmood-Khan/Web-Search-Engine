@@ -10,11 +10,12 @@ A web search engine is a software application that crawls the internet to index 
 ![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/d7e94c04-2f34-45cd-a966-f65fe9f2658b)
 
 
-##
-![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/dc61af00-2d47-40cd-8ad3-7717bf99b82a)
+
+## FLOW CHART
+![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/40cf0c81-972d-4a0f-8d16-24aeb3a53031)
+
 
 ## WEB CRAWLER
-
 The purpose of the Web crawler often known as spider or a search engine bot is to traverse to DOM(Document Object Model) data obtained by the browser on search and crawl through all of the linked pages. Later, human readable content is downloaded in the form of text files (using Jsoup), which is then used to perform various features such as caching, page ranking, word suggestion, and auto complete.
 
 
@@ -30,7 +31,7 @@ Word suggestion is used when the user enters a word that is incorrect or not fou
 Edit Distance Algorithm is used to suggest a “similar” word that has the shortest edit distance to the entered word.
 
 ## AUTO COMPLETE
- Auto Complete is used to predict the words only with the help of a few typed characters by the user. Trie data structure is used for storing strings to support fast pattern matching.
+Auto Complete is used to predict the words only with the help of a few typed characters by the user. Trie data structure is used for storing strings to support fast pattern matching.
 
 
 
