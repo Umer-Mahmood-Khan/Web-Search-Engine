@@ -5,8 +5,10 @@ A web search engine is a software application that crawls the internet to index 
 ##
 ![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/3a7fb0b2-8c37-4ebc-8f12-f2b39f9212af)
 
-##
-![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/179496e6-012b-48db-bc51-f69c78883f4f)
+
+## ARCHITECTURE OF SEARCH ENGINE
+![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/d7e94c04-2f34-45cd-a966-f65fe9f2658b)
+
 
 ##
 ![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/dc61af00-2d47-40cd-8ad3-7717bf99b82a)
