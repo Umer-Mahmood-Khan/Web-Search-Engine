@@ -12,9 +12,14 @@ A web search engine is a software application that crawls the internet to index 
 ![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/dc61af00-2d47-40cd-8ad3-7717bf99b82a)
 
 ## WEB CRAWLER
-![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/6b660fe7-2b85-4744-9ff8-fc58f9cb6bed)
+
+In our project, the purpose of the Web crawler often known as spider or a search engine bot is to traverse to DOM(Document Object Model) data obtained by the browser on search and crawl through all of the linked pages. Later, human readable content is downloaded in the form of text files (using Jsoup), which is then used to perform various features such as caching, page ranking, word suggestion, and auto complete.
+![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/3f255a69-d033-4da0-ab2a-e0a1d0840d8d)
 
 ## CACHING
-![image](https://github.com/Umer-Mahmood-Khan/Web-Search-Engine/assets/134300979/7fc6cf5a-cd1e-47ac-bd1e-a37c250492f7)
+In our project, caching is used for faster retrieval of information. When pages are cached, they are displayed as the crawler indexed them; when the live version is unavailable, we can use the cached version. All the content from the website will be saved offline so that users can access data when the internet is unavailable.
+Cache will save the content in the text file which can further be deleted.
+
+
 
 
